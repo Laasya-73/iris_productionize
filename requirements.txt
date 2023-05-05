@@ -26,7 +26,6 @@ cycler==0.11.0
 cymem==2.0.7
 dbus-python==1.2.18
 decorator==4.4.2
-defer==1.0.6
 defusedxml==0.7.1
 distro==1.7.0
 distro-info===1.1build1
