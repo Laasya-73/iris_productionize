@@ -185,5 +185,4 @@ widgetsnbextension==2.0.0
 wordcloud==1.8.2.2
 wrapt==1.14.1
 xgboost==1.7.4
-xkit==0.0.0
 zipp==1.0.0
